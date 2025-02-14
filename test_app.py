@@ -1,1 +1,3 @@
-from app import adddef test_add():    assert add(2, 3) == 5
+from app import add
+def test_add():
+  assert add(2, 3) == 5
