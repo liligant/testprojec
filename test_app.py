@@ -1,0 +1,1 @@
+from app import adddef test_add():    assert add(2, 3) == 5
